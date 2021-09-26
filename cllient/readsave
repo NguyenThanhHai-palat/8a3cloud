@@ -1,1 +1,19 @@
 main/clinet/uid/img
+
+[Id:video
+  [
+    UID:
+    STR:
+    DATE:
+  ]
+]
+[Id:sound
+  [
+    UID:
+    AUTHOR:
+    STR:
+    DATE:
+  ]
+]
+        
+    
