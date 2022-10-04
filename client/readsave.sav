@@ -1,25 +1,5 @@
-main/clinet/uid/img
+:///webserver/9a3class/data/$*
 
-[Id:video
-  [
-    UID:
-    STR:
-    DATE:
-  ]
-]
-[Id:sound
-  [
-    UID:
-    AUTHOR:
-    STR:
-    DATE:
-  ]
-]
-[Id:photo
-  [
-    UID:
-    STR:
-    DATE:
-  ]
-]        
-    
+UID.CNAME -UP -valuser="UID" -$file
+
+
