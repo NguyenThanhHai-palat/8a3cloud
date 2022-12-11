@@ -1,2 +1,2 @@
-hosting: Cloud:469
-MEMORY: 12mb/2GB
+Cloud-9A3
+500MB/2GB
